@@ -75,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
                 WebSocketFactory factory = new WebSocketFactory();
                 factory.setConnectionTimeout(5000);
                 // Create a WebSocketFactory instance.
-                WebSocket ws = factory.createSocket("ws://10.0.2.2:8091");
+                WebSocket ws = factory.createSocket("ws://10.0.2.2:8092");
                 ws.connect();
 
                 return ws;
