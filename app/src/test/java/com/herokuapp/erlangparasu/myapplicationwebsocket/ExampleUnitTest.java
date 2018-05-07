@@ -1,4 +1,4 @@
-package com.example.bagus.myapplicationwebsocket;
+package com.herokuapp.erlangparasu.myapplicationwebsocket;
 
 import org.junit.Test;
 
